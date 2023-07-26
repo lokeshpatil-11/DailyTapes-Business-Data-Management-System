@@ -1,0 +1,25 @@
+{
+  "name": "inv-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inv-server.js",
+  "scripts": {
+    "start": "node inv-server.js",
+    "server": "nodemon inv-server.js"
+  },
+  "keywords": [],
+  "author": "STUDENTS",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "log4js": "^6.9.1",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

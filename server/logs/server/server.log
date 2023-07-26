@@ -1,0 +1,737 @@
+[2023-05-15T13:07:03.559] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:49:19.219] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:55:57.800] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:57:59.351] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:59:13.090] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:59:35.052] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T15:59:45.252] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:00:38.168] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:01:21.692] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:27:14.884] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:27:53.207] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:29:27.637] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:30:07.079] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:30:52.859] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:31:00.007] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:31:08.862] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:32:25.615] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:33:10.467] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:35:41.537] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:36:20.901] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:36:39.340] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:16)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:38:58.583] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:39:14.702] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:40:28.213] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:40:50.464] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:41:02.434] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:41:08.202] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:43:03.106] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:43:45.846] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:44:22.803] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:45:37.217] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:45:44.280] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:46:17.536] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:47:16.115] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:47:55.320] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:48:09.110] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T16:48:30.943] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:53:20.400] [DEBUG] server - Server is running on port: 5027
+[2023-05-15T16:53:32.949] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:153:16)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:20:55.870] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:21:20.844] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:21:26.386] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:21:45.085] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:21:57.302] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:22:10.748] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:24:06.094] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:25:43.260] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:29:18.006] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
+[2023-05-15T22:30:47.184] [ERROR] server - Error [ERR_REQUIRE_ESM]: Must use import to load ES Module: C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js
+require() of ES modules is not supported.
+require() of C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\index.js from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js is an ES module file as it is a .js file whose nearest parent package.json contains "type": "module" which defines all .js files in that package scope as ES modules.
+Instead rename index.js to end in .cjs, change the requiring code to use import(), or remove "type": "module" from C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\node_modules\nanoid\package.json.
+
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1089:13)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12)
+    at Module.require (internal/modules/cjs/loader.js:961:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (C:\Users\Lenovo\Documents\GitHub\inventory_mgt\server\functions\auth.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1072:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1101:10)
+    at Module.load (internal/modules/cjs/loader.js:937:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:778:12) {
+  code: 'ERR_REQUIRE_ESM'
+}
